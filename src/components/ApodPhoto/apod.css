@@ -1,0 +1,14 @@
+.apod-container {
+    max-width: 1000px;
+    margin-top: 20vh;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.apod-container iframe {
+    max-width: 800px;
+}
+
+.apod-container img {
+    max-width: 800px;
+}

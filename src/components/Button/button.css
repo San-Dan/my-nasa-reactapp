@@ -1,0 +1,12 @@
+.button {
+    background-color: whitesmoke;
+    height: 30px;
+    width: 200px;
+    border-radius: 20%;
+}
+
+.button a {
+    color: tomato;
+    text-decoration: none;
+    font-weight: bolder;
+}

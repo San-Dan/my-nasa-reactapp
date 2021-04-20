@@ -1,0 +1,27 @@
+.menu {
+    height: 20vh;
+    background-color: lightslategray;
+    color: white;
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    position: fixed;
+    top: 0;
+}
+
+.menu img {
+    height: 20vh;
+    width: auto;
+    pointer-events: none;
+}
+
+.menu a {
+    color: white;
+    font-size: 2rem;
+}
+
+.logo {
+    height: 50px;
+    pointer-events: none;
+}
